@@ -26,6 +26,11 @@
 
 然后大家基于这个任务来去阅读指定的 Issues 就好了
 
+任务会放到这个项目的 Issues 内，大家可以直接在对应的 issue 下面留言讨论
+
+![image](https://user-images.githubusercontent.com/12064746/143980964-4b85ccca-063e-4ccd-8829-47e1e50d6939.png)
+
+
 最终我会收集大家的输出文章放到这个仓库内
 
 我给自己规定每周要研究一个 Issues 
