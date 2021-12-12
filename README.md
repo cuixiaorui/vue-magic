@@ -57,6 +57,7 @@
 - [给 Vue3 提 PR 可以学到什么](https://www.bilibili.com/video/BV16b4y1t7t8) 
 - [【共读 Vue3】如何测试代码的执行速度](https://www.bilibili.com/video/BV1XU4y1K79u)
 - [【共读 Vue3】复现修复 BUG 全流程](https://www.bilibili.com/video/BV15M4y1A75w)
+- [【共读 Vue3】TS 的类型测试](https://www.bilibili.com/video/BV1nU4y1K7qL)
 
 ## 如何参与进来
 
